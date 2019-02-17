@@ -1,6 +1,4 @@
 Name: Mohammad Amjed
-Student Number: 500712374
-CPS511
 
 to run program,
 
