@@ -19,16 +19,16 @@ A simple game where you can fly a drone
 
 ## Controls:
 
-W 	      	  Move Forwards
-A			        Move Backwards
-S			        Move Right
-D			        Move Left
-Q			        Move Up
-Z			        Move Down
-H			        Start Propellers
-Right Click	  Start Propellers
-Left Click		Stop Propellers
-F1    		  	Help
+- W:  	      	  Move Forwards
+- A: 			        Move Backwards
+- S: 			        Move Right
+- D: 			        Move Left
+- Q: 			        Move Up
+- Z: 			        Move Down
+- H: 			        Start Propellers
+- Right Click: 	  Start Propellers
+- Left Click: 		Stop Propellers
+- F1:     		  	Help
 
 ## Screenshots
 
